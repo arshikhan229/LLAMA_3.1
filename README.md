@@ -19,8 +19,8 @@ Make sure you have Python 3.x installed along with pip.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/llama-3.1.git
-cd llama-3.1
+git clone https://github.com/your-username/llama_3.1.git
+cd llama_3.1
 ```
 
 2. Install required dependencies:
@@ -32,11 +32,11 @@ pip install -r requirements.txt
 ### Usage
 
 1. Make sure you have a Hugging Face account and obtain your API token.
-2. Replace `'your_huggingface_token'` in `llama_3_1.py` with your actual token.
+2. Replace `'your_huggingface_token'` in `llama_3.1.py` with your actual token.
 3. Run the script:
 
 ```bash
-python llama_3_1.py
+python llama_3.1.py
 ```
 
 ### Example
