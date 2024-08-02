@@ -19,7 +19,7 @@ Make sure you have Python 3.x installed along with pip.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/llama_3.1.git
+git clone https://github.com/arshikhan229/llama_3.1.git
 cd llama_3.1
 ```
 
