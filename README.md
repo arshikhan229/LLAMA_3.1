@@ -19,8 +19,8 @@ Make sure you have Python 3.x installed along with pip.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/llama-3-1.git
-cd llama-3-1
+git clone https://github.com/your-username/llama-3.1.git
+cd llama-3.1
 ```
 
 2. Install required dependencies:
